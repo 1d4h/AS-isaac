@@ -1,0 +1,7 @@
+{
+  "name": "AS-ISAAC Customer Manager",
+  "description": "An integrated customer management system featuring data visualization, location tracking, and client status management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
